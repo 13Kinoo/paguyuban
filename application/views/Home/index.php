@@ -77,14 +77,8 @@
       </li>
       <li class="nav-item">
        <a class="nav-link" href="#">
-        Akun
+        Login
        </a>
-      </li>
-      <li class="nav-item">
-       <a class="nav-link" href="#">
-        Ganti password
-       </a>
-      </li>
      </ul>
     </div>
    </div>
